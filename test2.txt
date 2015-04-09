@@ -1,7 +1,0 @@
-Its second file first change
-<<<<<<< HEAD
-ch 1
-ch 2
-=======
-Second change
->>>>>>> parent of bbad043... text changes using checkout
