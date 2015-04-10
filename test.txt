@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 Its first file
 ch 1
 CH2
 =======
 Its first file
->>>>>>> parent of 3802b4c... test.txt changes 1
